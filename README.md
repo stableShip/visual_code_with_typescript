@@ -18,9 +18,6 @@ tsd install
 
 npm install typescript -g
 
-##安装d.ts文件
-
-
 
 ##运行项目
 
