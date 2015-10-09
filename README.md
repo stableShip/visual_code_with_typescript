@@ -1,5 +1,13 @@
 # visual_code_with_typescript
-demo of visual_code_with_typescript
+visual stdio code 的typescript项目模板
+
+## 环境依赖
+nodejs
+
+typescript
+
+tsd
+
 
 ##安装相关的依赖
 npm install
@@ -12,4 +20,11 @@ npm install
 1.安装typescript
 >npm install typescript -g
 
-2.tsc --module commonjs app.ts (或使用ide进行自动编译)
+2. 使用visual stdio code 打开项目,打开要编译的文件
+   使用快捷键 `shift + alt + v`
+   即可编译ts文件
+
+命令行编译:
+`tsc --module commonjs app.ts`
+
+
