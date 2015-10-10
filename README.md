@@ -22,7 +22,7 @@ npm install typescript -g
 ##运行项目
 
 1. 使用visual stdio code 打开项目,打开要编译的文件
-   使用快捷键 `shift + alt + v`
+   使用快捷键 `shift + ctrl + b`
    即可编译ts文件
 
 命令行编译:
