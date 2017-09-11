@@ -1,4 +1,6 @@
 # visual_code_with_typescript
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/stableShip/visual_code_with_typescript.svg)](https://greenkeeper.io/)
 visual stdio code 的typescript项目模板
 
 ## 环境依赖
